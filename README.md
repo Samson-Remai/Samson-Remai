@@ -1,5 +1,4 @@
 -  Hi, I’m @Samson-Remai
--  I’m interested in sports and statistics
 -  I’m majoring in statistics
 - How to reach me ig: @samsonremai
 
