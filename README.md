@@ -1,6 +1,6 @@
--  Hi, I’m @Samson-Remai
--  I’m majoring in statistics
-- How to reach me ig: @samsonremai
+-  Hey, I’m Samson Remai
+-  I’m a Statistics major with a concentration in Machine Learning
+- You can reach me at samsonremai@gmail.com
 
 <!---
 Samson-Remai/Samson-Remai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
