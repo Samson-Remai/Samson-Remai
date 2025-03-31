@@ -1,5 +1,5 @@
 -  Hey, I’m Samson Remai
--  I’m graduate from the University of British Columbia with a BSc Statistics  with a concentration in Machine Learning
+-  I’m a graduate from the University of British Columbia with a BSc Statistics  with a concentration in Machine Learning
 -  You can reach me at samsonremai@gmail.com
 
 <!---
